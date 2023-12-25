@@ -14,7 +14,8 @@ Movie Explorer is an iOS app that allows users to explore a curated list of now 
 
 ## Screenshots
 
-![Now Playing](screenshots/now_playing.png)
+![Now Playing]<img width="349" alt="Screenshot 2023-12-24 at 7 30 31 PM" src="https://github.com/VinDesiraju/The-Movie-Database/assets/31548669/29866111-86c9-4b94-844a-33286efc6959">
+
 ![Movie Details](screenshots/movie_details.png)
 ![Favorites Tab](screenshots/favorites_tab.png)
 
@@ -25,4 +26,4 @@ To run the app locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/movie-explorer.git
+   https://github.com/VinDesiraju/The-Movie-Database.git
