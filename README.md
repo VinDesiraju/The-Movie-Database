@@ -13,11 +13,22 @@ Movie Explorer is an iOS app that allows users to explore a curated list of now 
 - Seamless scrolling through movie details.
 
 ## Screenshots
+- Now Playing Movies
+  
+<img width="349" alt="Screenshot 2023-12-24 at 7 30 31 PM" src="https://github.com/VinDesiraju/The-Movie-Database/assets/31548669/29866111-86c9-4b94-844a-33286efc6959">
 
-![Now Playing]<img width="349" alt="Screenshot 2023-12-24 at 7 30 31 PM" src="https://github.com/VinDesiraju/The-Movie-Database/assets/31548669/29866111-86c9-4b94-844a-33286efc6959">
+- Upcoming Movies
+  
+<img width="351" alt="Screenshot 2023-12-24 at 7 32 24 PM" src="https://github.com/VinDesiraju/The-Movie-Database/assets/31548669/70908948-a9c6-40a4-aa9e-ab2644320616">
 
-![Movie Details](screenshots/movie_details.png)
-![Favorites Tab](screenshots/favorites_tab.png)
+- Favorites
+
+<img width="343" alt="Screenshot 2023-12-24 at 7 33 58 PM" src="https://github.com/VinDesiraju/The-Movie-Database/assets/31548669/a4d4b77a-0d91-4b6e-a0cd-e4c7a6962a20">
+
+- Detailed information of a movie
+<img width="341" alt="Screenshot 2023-12-24 at 7 35 23 PM" src="https://github.com/VinDesiraju/The-Movie-Database/assets/31548669/367681ea-fa47-49ec-b1c8-28d814799f8a">
+
+
 
 ## Getting Started
 
@@ -27,3 +38,5 @@ To run the app locally, follow these steps:
 
    ```bash
    https://github.com/VinDesiraju/The-Movie-Database.git
+
+2. Build the project and enjoy!
